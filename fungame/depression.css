@@ -2,7 +2,7 @@ body {
   font-family: Arial;
   background-image: url('../images/dark-bg.png');
   background-position: center; 
-  color: solid green;
+  color: green;
 }
 
 #container {
